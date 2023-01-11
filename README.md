@@ -3,5 +3,6 @@
 2. Created DataBase<br>
 3. Created Table<br>
 4. Updated Table<br>
-5. Output the Data as DataFrame using Pandas
+5. Output the Data as DataFrame using Pandas<br>
+6. Perfom EDA and fit model to the DataFrame
 <p>
